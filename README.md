@@ -8,14 +8,6 @@ This is a little POC to demonstrate page transitions across pages in the nuxt fr
 
 It is built by using a mixin, and the transition property.
 
-Also checkout my business website: [JR-ICT](https://www.jr-ict.nl). (Dutch).
-
-
-
-
-
-
-
 
 
 
